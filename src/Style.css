@@ -1,0 +1,16 @@
+.td {
+    text-align: center;
+}
+.hbg {
+    background-color: rgb(64,97,247);
+    height:60px;
+}
+.hc {
+    padding-top:50px;
+}
+.fbg{
+    background-color: rgb(5,5,5);
+    height: 30px;
+    color:aliceblue;
+    text-align: center;
+}
